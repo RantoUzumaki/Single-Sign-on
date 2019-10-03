@@ -1,0 +1,27 @@
+body {
+	/*background: linear-gradient(to bottom right, #dda9f0, #cdadf6, #bcb1f9, #abb5fb, #9ab8fa, #85c1ff, #6fc9ff, #5cd1fe, #47e0f8, #52edea, #77f7d6, #a3ffc0) no-repeat center center fixed; */
+	background-image: url(img1.jpg);
+    background-size: cover;
+    margin: 0px;
+    text-align: center;
+}
+
+.div1 {
+
+}
+
+.div2 {
+
+}
+
+.div3 {
+
+}
+
+.para1 {
+	font-family: 'Macondo Swash Caps', cursive;
+}
+
+.para2 {
+	font-family: 'Lemonada', cursive;
+}

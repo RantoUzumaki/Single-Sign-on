@@ -1,0 +1,54 @@
+body {
+	height: 865px;
+	background-color: #ffd5ef;
+	background-image: linear-gradient(to right top, #e7a8cc, #e1a8d4, #d9a9db, #cfabe3, #c3ade9, #b4b4f0, #a6bcf4, #99c2f5, #93cdf2, #98d6ec, #a5dde5, #b7e3e0);
+	margin: 0px;
+}
+
+.div1 {
+	text-align: center;
+}
+
+.div2 {
+	margin-top: 250px !important; 
+	margin: auto;
+}
+
+.b1 {
+	font-size: 20px;
+	padding: 20px 48px;
+	border-radius: 4px;
+	background: rgba(255, 255, 255,0.1);
+	transition-duration: 0.7s;
+}
+
+.b1:hover {
+	background: rgba(255, 255, 255, 0.5);
+	box-shadow: 1px 1px 25px black;
+}
+
+.b2 {
+	font-size: 20px;
+	padding: 20px 48px;
+	border-radius: 4px;
+	background: rgba(255, 255, 255,0.1);
+	transition-duration: 0.7s;
+}
+
+.b2:hover {
+	background: rgba(255, 255, 255, 0.5);
+	box-shadow: 1px 1px 25px black;
+}
+
+.b3 {
+	font-size: 20px;
+	padding: 20px 48px;
+	border-radius: 4px;
+	background: rgba(255, 255, 255,0.1);
+	transition-duration: 0.7s;
+}
+
+.b3:hover {
+	background: rgba(255, 255, 255, 0.5);
+	box-shadow: 1px 1px 25px black;
+}

@@ -1,0 +1,37 @@
+body {
+	 background: linear-gradient(to bottom right, #ffb1dd, #f1abe5, #dea7ed, #c6a4f5, #a8a3fb, #8daeff, #72b8ff, #5ac0ff, #66d2fe, #80e2fc, #a0f1fa, #c1fffb) no-repeat center center fixed; 
+     background-size: cover;
+     margin: 0px;
+}
+
+.div1 {
+	float: right;
+	margin-top: 250px;
+	margin-right: 500px;
+}
+
+.b1 {
+	font-size: 20px;
+	padding: 20px 48px;
+	border-radius: 4px;
+	background: rgba(255,255,255,0.1);
+	transition-duration: 0.3s;
+}
+
+.b1:hover {
+	background: rgba(255,255,255,0.7);
+	box-shadow: 1px 1px 15px black;
+}
+
+.b2 {
+	font-size: 20px;
+	padding: 20px 48px;
+	border-radius: 4px;
+	background: rgba(255,255,255,0.1);
+	transition-duration: 0.3s;
+}
+
+.b2:hover {
+	background: rgba(255,255,255,0.7);
+	box-shadow: 1px 1px 15px black;
+}
